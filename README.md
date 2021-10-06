@@ -1,4 +1,5 @@
 # webinar-subtitles
+NOTE:THIS REPO IS FOR UNISAT 2021 WEBINARS SUBTITLES EXCEPT EN/RU
 Please Update Webinar Subtitles Here
 
 
